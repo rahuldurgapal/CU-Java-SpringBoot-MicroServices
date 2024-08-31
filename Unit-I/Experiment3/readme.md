@@ -59,7 +59,7 @@
 ```
 
 
-2. <font size="5">Create a new Spring Boot project with the necessary dependencies</font>
+2. <font size="10">Create a new Spring Boot project with the necessary dependencies</font>
 - Open the application.properties file and configure the database connection:
 
 ```
